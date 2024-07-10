@@ -1,0 +1,142 @@
+[
+    {
+        "symbol": "ETH",
+        "size_usd": 10000,
+        "time_to_neutralize": 34.066305,
+        "profit_after_fees": 12.840426341201553,
+        "total_fees": 7.0734580753609455
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 20000,
+        "time_to_neutralize": 31.445819999999994,
+        "profit_after_fees": 23.525200663642728,
+        "total_fees": 13.238893643857267
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 30000,
+        "time_to_neutralize": 29.199689999999997,
+        "profit_after_fees": 31.710824651482646,
+        "total_fees": 19.49630670539235
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 40000,
+        "time_to_neutralize": 27.253044,
+        "profit_after_fees": 37.87873287287279,
+        "total_fees": 25.845697260127217
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 50000,
+        "time_to_neutralize": 25.54972875,
+        "profit_after_fees": 42.39000125427296,
+        "total_fees": 32.28706530783643
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 60000,
+        "time_to_neutralize": 24.046803529411765,
+        "profit_after_fees": 45.520746680160734,
+        "total_fees": 38.82041084880985
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 70000,
+        "time_to_neutralize": 22.710869999999996,
+        "profit_after_fees": 47.48572672770636,
+        "total_fees": 45.44573388291864
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 80000,
+        "time_to_neutralize": 21.515561052631575,
+        "profit_after_fees": 48.45448685272641,
+        "total_fees": 52.16303440990516
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 90000,
+        "time_to_neutralize": 20.439783,
+        "profit_after_fees": 48.562663419198174,
+        "total_fees": 58.97231243023933
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 100000,
+        "time_to_neutralize": 19.466459999999998,
+        "profit_after_fees": 47.9200572941015,
+        "total_fees": 65.87356794339851
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 110000,
+        "time_to_neutralize": 18.58162090909091,
+        "profit_after_fees": 46.61650554939207,
+        "total_fees": 72.86680094998293
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 120000,
+        "time_to_neutralize": 17.773724347826086,
+        "profit_after_fees": 44.72622141959677,
+        "total_fees": 79.95201144931627
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 130000,
+        "time_to_neutralize": 17.0331525,
+        "profit_after_fees": 42.31104926551703,
+        "total_fees": 87.12919944213922
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 140000,
+        "time_to_neutralize": 16.351826399999997,
+        "profit_after_fees": 39.42293835120239,
+        "total_fees": 94.39836492809758
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 150000,
+        "time_to_neutralize": 15.722909999999997,
+        "profit_after_fees": 36.10584574641676,
+        "total_fees": 101.75950790670821
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 160000,
+        "time_to_neutralize": 15.140579999999998,
+        "profit_after_fees": 32.397216361094905,
+        "total_fees": 109.2126283789051
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 170000,
+        "time_to_neutralize": 14.599844999999998,
+        "profit_after_fees": 28.3291458341226,
+        "total_fees": 116.75772634368987
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 180000,
+        "time_to_neutralize": 14.096402068965515,
+        "profit_after_fees": 23.9293028178148,
+        "total_fees": 124.39480180209895
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 190000,
+        "time_to_neutralize": 13.626522,
+        "profit_after_fees": 19.221666812818626,
+        "total_fees": 132.12385475305638
+    },
+    {
+        "symbol": "ETH",
+        "size_usd": 200000,
+        "time_to_neutralize": 13.186956774193547,
+        "profit_after_fees": 14.227123188561421,
+        "total_fees": 139.9448851977289
+    }
+]
