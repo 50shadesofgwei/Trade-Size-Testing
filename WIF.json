@@ -1,135 +1,142 @@
 [
     {
         "symbol": "WIF",
+        "size_usd": 42000,
+        "time_to_neutralize": 72,
+        "profit_after_fees": 496.2051596309584,
+        "total_fees": 97.25484036904162
+    },
+    {
+        "symbol": "WIF",
         "size_usd": 43000,
-        "time_to_neutralize": 77.89617203759978,
-        "profit_after_fees": 312.4999377840483,
-        "total_fees": 17.42929888120552
+        "time_to_neutralize": 78.49704792900008,
+        "profit_after_fees": 558.6982237699146,
+        "total_fees": 100.40665462488047
     },
     {
         "symbol": "WIF",
         "size_usd": 44000,
-        "time_to_neutralize": 38.948086018800005,
-        "profit_after_fees": 150.0994185811271,
-        "total_fees": 18.701586224352084
+        "time_to_neutralize": 39.24852396450004,
+        "profit_after_fees": 233.61797902627865,
+        "total_fees": 103.59847038501188
     },
     {
         "symbol": "WIF",
         "size_usd": 45000,
-        "time_to_neutralize": 25.965390679199977,
-        "profit_after_fees": 95.07725649873801,
-        "total_fees": 20.014337686815878
+        "time_to_neutralize": 26.165682642999972,
+        "profit_after_fees": 123.09001876708285,
+        "total_fees": 106.83028764970567
     },
     {
         "symbol": "WIF",
         "size_usd": 46000,
-        "time_to_neutralize": 19.474043009400003,
-        "profit_after_fees": 66.86933560671551,
-        "total_fees": 21.36755326887588
+        "time_to_neutralize": 19.624261982249987,
+        "profit_after_fees": 66.17012850110972,
+        "total_fees": 110.10210641842822
     },
     {
         "symbol": "WIF",
         "size_usd": 47000,
-        "time_to_neutralize": 15.579234407519992,
-        "profit_after_fees": 49.3628327196336,
-        "total_fees": 22.7612329699802
+        "time_to_neutralize": 15.699409585799994,
+        "profit_after_fees": 30.669465329744256,
+        "total_fees": 113.41392669144334
     },
     {
         "symbol": "WIF",
         "size_usd": 48000,
-        "time_to_neutralize": 12.9826953396,
-        "profit_after_fees": 37.18680677522704,
-        "total_fees": 24.195376790401745
+        "time_to_neutralize": 13.082841321499998,
+        "profit_after_fees": 5.858414953248527,
+        "total_fees": 116.76574846903881
     },
     {
         "symbol": "WIF",
         "size_usd": 49000,
-        "time_to_neutralize": 11.128024576799994,
-        "profit_after_fees": 28.039425889487482,
-        "total_fees": 25.669984730437683
+        "time_to_neutralize": 11.213863989857144,
+        "profit_after_fees": -12.861428756143624,
+        "total_fees": 120.15757175064508
     },
     {
         "symbol": "WIF",
         "size_usd": 50000,
-        "time_to_neutralize": 9.737021504700001,
-        "profit_after_fees": 20.769774121147755,
-        "total_fees": 27.185056789499747
+        "time_to_neutralize": 9.812130991125,
+        "profit_after_fees": -27.789268862881897,
+        "total_fees": 123.58939653654389
     },
     {
         "symbol": "WIF",
         "size_usd": 51000,
-        "time_to_neutralize": 8.655130226399999,
-        "profit_after_fees": 14.738453724441364,
-        "total_fees": 28.74059296787903
+        "time_to_neutralize": 8.721894214333336,
+        "profit_after_fees": -40.20244040292761,
+        "total_fees": 127.06122282704784
     },
     {
         "symbol": "WIF",
         "size_usd": 52000,
-        "time_to_neutralize": 7.789617203760001,
-        "profit_after_fees": 9.561826051767802,
-        "total_fees": 30.33659326589092
+        "time_to_neutralize": 7.849704792899997,
+        "profit_after_fees": -50.86734439705117,
+        "total_fees": 130.57305062153793
     },
     {
         "symbol": "WIF",
         "size_usd": 53000,
-        "time_to_neutralize": 7.081470185236363,
-        "profit_after_fees": 4.995757419115698,
-        "total_fees": 31.973057682910728
+        "time_to_neutralize": 7.136095266272725,
+        "profit_after_fees": -60.27169058644303,
+        "total_fees": 134.1248799203206
     },
     {
         "symbol": "WIF",
         "size_usd": 54000,
-        "time_to_neutralize": 6.4913476698,
-        "profit_after_fees": 0.8774920364184382,
-        "total_fees": 33.64998621924776
+        "time_to_neutralize": 6.541420660749999,
+        "profit_after_fees": -68.74061879868296,
+        "total_fees": 137.7167107237196
     },
     {
         "symbol": "WIF",
         "size_usd": 55000,
-        "time_to_neutralize": 5.99201323366154,
-        "profit_after_fees": -2.905647181874201,
-        "total_fees": 35.36737887523559
+        "time_to_neutralize": 6.038234456076926,
+        "profit_after_fees": -76.49922583661444,
+        "total_fees": 141.34854303109336
     },
     {
         "symbol": "WIF",
         "size_usd": 56000,
-        "time_to_neutralize": 5.564012288399997,
-        "profit_after_fees": -6.434143867398763,
-        "total_fees": 37.12523565021314
+        "time_to_neutralize": 5.606931994928572,
+        "profit_after_fees": -83.70829513161605,
+        "total_fees": 145.02037684275973
     },
     {
         "symbol": "WIF",
         "size_usd": 57000,
-        "time_to_neutralize": 5.193078135839999,
-        "profit_after_fees": -9.767019350834257,
-        "total_fees": 38.923556544507925
+        "time_to_neutralize": 5.2331365285999984,
+        "profit_after_fees": -90.48573453347392,
+        "total_fees": 148.7322121590604
     },
     {
         "symbol": "WIF",
         "size_usd": 58000,
-        "time_to_neutralize": 4.868510752350001,
-        "profit_after_fees": -12.948539630296139,
-        "total_fees": 40.76234155847169
+        "time_to_neutralize": 4.9060654955625,
+        "profit_after_fees": -96.91997492859394,
+        "total_fees": 152.4840489793179
     },
     {
         "symbol": "WIF",
         "size_usd": 59000,
-        "time_to_neutralize": 4.582127766917648,
-        "profit_after_fees": -16.012555173965076,
-        "total_fees": 42.64159069140699
+        "time_to_neutralize": 4.617473407588235,
+        "profit_after_fees": -103.07863993684626,
+        "total_fees": 156.27588730386796
     },
     {
         "symbol": "WIF",
         "size_usd": 60000,
-        "time_to_neutralize": 4.3275651131999995,
-        "profit_after_fees": -18.98539412464753,
-        "total_fees": 44.561303943659524
+        "time_to_neutralize": 4.360947107166668,
+        "profit_after_fees": -109.01432570711722,
+        "total_fees": 160.1077271330703
     },
     {
         "symbol": "WIF",
         "size_usd": 61000,
-        "time_to_neutralize": 4.099798528294736,
-        "profit_after_fees": -21.887841858340295,
-        "total_fees": 46.52148131559922
+        "time_to_neutralize": 4.131423575210526,
+        "profit_after_fees": -114.7685555138462,
+        "total_fees": 163.9795684662115
     }
 ]
