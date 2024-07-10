@@ -1,0 +1,135 @@
+[
+    {
+        "symbol": "WIF",
+        "size_usd": 43000,
+        "time_to_neutralize": 77.89617203759978,
+        "profit_after_fees": 312.4999377840483,
+        "total_fees": 17.42929888120552
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 44000,
+        "time_to_neutralize": 38.948086018800005,
+        "profit_after_fees": 150.0994185811271,
+        "total_fees": 18.701586224352084
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 45000,
+        "time_to_neutralize": 25.965390679199977,
+        "profit_after_fees": 95.07725649873801,
+        "total_fees": 20.014337686815878
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 46000,
+        "time_to_neutralize": 19.474043009400003,
+        "profit_after_fees": 66.86933560671551,
+        "total_fees": 21.36755326887588
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 47000,
+        "time_to_neutralize": 15.579234407519992,
+        "profit_after_fees": 49.3628327196336,
+        "total_fees": 22.7612329699802
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 48000,
+        "time_to_neutralize": 12.9826953396,
+        "profit_after_fees": 37.18680677522704,
+        "total_fees": 24.195376790401745
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 49000,
+        "time_to_neutralize": 11.128024576799994,
+        "profit_after_fees": 28.039425889487482,
+        "total_fees": 25.669984730437683
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 50000,
+        "time_to_neutralize": 9.737021504700001,
+        "profit_after_fees": 20.769774121147755,
+        "total_fees": 27.185056789499747
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 51000,
+        "time_to_neutralize": 8.655130226399999,
+        "profit_after_fees": 14.738453724441364,
+        "total_fees": 28.74059296787903
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 52000,
+        "time_to_neutralize": 7.789617203760001,
+        "profit_after_fees": 9.561826051767802,
+        "total_fees": 30.33659326589092
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 53000,
+        "time_to_neutralize": 7.081470185236363,
+        "profit_after_fees": 4.995757419115698,
+        "total_fees": 31.973057682910728
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 54000,
+        "time_to_neutralize": 6.4913476698,
+        "profit_after_fees": 0.8774920364184382,
+        "total_fees": 33.64998621924776
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 55000,
+        "time_to_neutralize": 5.99201323366154,
+        "profit_after_fees": -2.905647181874201,
+        "total_fees": 35.36737887523559
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 56000,
+        "time_to_neutralize": 5.564012288399997,
+        "profit_after_fees": -6.434143867398763,
+        "total_fees": 37.12523565021314
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 57000,
+        "time_to_neutralize": 5.193078135839999,
+        "profit_after_fees": -9.767019350834257,
+        "total_fees": 38.923556544507925
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 58000,
+        "time_to_neutralize": 4.868510752350001,
+        "profit_after_fees": -12.948539630296139,
+        "total_fees": 40.76234155847169
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 59000,
+        "time_to_neutralize": 4.582127766917648,
+        "profit_after_fees": -16.012555173965076,
+        "total_fees": 42.64159069140699
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 60000,
+        "time_to_neutralize": 4.3275651131999995,
+        "profit_after_fees": -18.98539412464753,
+        "total_fees": 44.561303943659524
+    },
+    {
+        "symbol": "WIF",
+        "size_usd": 61000,
+        "time_to_neutralize": 4.099798528294736,
+        "profit_after_fees": -21.887841858340295,
+        "total_fees": 46.52148131559922
+    }
+]
