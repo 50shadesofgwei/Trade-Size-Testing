@@ -1,0 +1,142 @@
+[
+    {
+        "symbol": "BONK",
+        "size_usd": 1000,
+        "time_to_neutralize": 24,
+        "profit_after_fees": 2.177808598153528,
+        "total_fees": 2.0790773591060474
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 2000,
+        "time_to_neutralize": 24,
+        "profit_after_fees": 3.60131774023474,
+        "total_fees": 3.205568217024836
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 3000,
+        "time_to_neutralize": 24,
+        "profit_after_fees": 3.270527426243633,
+        "total_fees": 4.379472573756367
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 4000,
+        "time_to_neutralize": 35.854767999999986,
+        "profit_after_fees": 2.018347770699359,
+        "total_fees": 5.600790429300638
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 5000,
+        "time_to_neutralize": 17.927383999999993,
+        "profit_after_fees": -2.107560408657654,
+        "total_fees": 6.869521783657651
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 6000,
+        "time_to_neutralize": 11.951589333333333,
+        "profit_after_fees": -4.376097536827405,
+        "total_fees": 8.185666636827404
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 7000,
+        "time_to_neutralize": 8.963692,
+        "profit_after_fees": -6.2158520263108,
+        "total_fees": 9.5492249888108
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 8000,
+        "time_to_neutralize": 7.170953599999998,
+        "profit_after_fees": -7.912541559606167,
+        "total_fees": 10.960196839606166
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 9000,
+        "time_to_neutralize": 5.975794666666666,
+        "profit_after_fees": -9.561405364214274,
+        "total_fees": 12.418582189214273
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 10000,
+        "time_to_neutralize": 5.122109714285712,
+        "profit_after_fees": -11.20326025192084,
+        "total_fees": 13.924381037635124
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 11000,
+        "time_to_neutralize": 4.481846,
+        "profit_after_fees": -12.858514628618712,
+        "total_fees": 15.477593384868712
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 12000,
+        "time_to_neutralize": 3.9838631111111105,
+        "profit_after_fees": -14.538506497581713,
+        "total_fees": 17.078219230915046
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 13000,
+        "time_to_neutralize": 3.5854768000000004,
+        "profit_after_fees": -16.250038660774116,
+        "total_fees": 18.726258575774118
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 14000,
+        "time_to_neutralize": 3.259524363636363,
+        "profit_after_fees": -17.997440173991386,
+        "total_fees": 20.42171141944593
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 15000,
+        "time_to_neutralize": 2.987897333333333,
+        "profit_after_fees": -19.78359707443049,
+        "total_fees": 22.164577761930488
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 16000,
+        "time_to_neutralize": 2.7580590769230766,
+        "profit_after_fees": -21.61050738784317,
+        "total_fees": 23.954857603227786
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 17000,
+        "time_to_neutralize": 2.5610548571428566,
+        "profit_after_fees": -23.479598275480683,
+        "total_fees": 25.792550943337826
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 18000,
+        "time_to_neutralize": 2.390317866666666,
+        "profit_after_fees": -25.39191632226292,
+        "total_fees": 27.67765778226292
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 19000,
+        "time_to_neutralize": 2.240923,
+        "profit_after_fees": -27.34824646687357,
+        "total_fees": 29.61017811999857
+    },
+    {
+        "symbol": "BONK",
+        "size_usd": 20000,
+        "time_to_neutralize": 2.1091039999999994,
+        "profit_after_fees": -29.349188956546964,
+        "total_fees": 31.590111956546963
+    }
+]
